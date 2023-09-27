@@ -1,0 +1,20 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "code",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "code = sys.argv[1]  # Get the code from the command-line argumentsc\nprint(code)\nexec(code)  # Execute the code",
+        "detail": "main",
+        "documentation": {}
+    }
+]
